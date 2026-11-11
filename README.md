@@ -39,7 +39,7 @@ displayed status to Complete.
 
 ## Assumptions and open questions
 - Assumption A-01: internet is available 
-- Question Q-01: how many orders do  you deal with daily
+- Question Q-01: how many orders do  you deal with daily and weekly basis
 - Question Q-02: how do you ensure the order is according to the customer's needs
 
 ## Project status and viewing
